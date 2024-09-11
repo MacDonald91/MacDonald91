@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MacDonald91
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Alasdair
+- 👀 I’m interested in ... everything technology!
 - 🌱 I’m currently learning ... Cloud Egineering!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... www.linkedin.com/in/alasdair-macdonald-60b178326
