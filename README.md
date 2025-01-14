@@ -45,20 +45,6 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played" />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/MacDonald91/MacDonald91/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/MacDonald91/MacDonald91/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MacDonald91&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MacDonald91&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
