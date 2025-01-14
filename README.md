@@ -44,10 +44,27 @@
 
 ###
 
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played" />
+</div>
 
 ###
 
-<svg width="200" height="50" style="background-color: black;">
-  <path id="snake" d="M10,25 C 40,5 65,45 95,25 125,5 150,45 180,25" stroke="green" stroke-width="5" fill="none"/>
-  <animateMotion
-    xlink:href
+<img src="https://raw.githubusercontent.com/MacDonald91/MacDonald91/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/MacDonald91/MacDonald91/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MacDonald91&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MacDonald91&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/alasdair-macdonald-60b178326" target="_blank">
+    <img src="https
