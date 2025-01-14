@@ -47,11 +47,27 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MacDonald91/MacDonald91/output/snake.svg" alt="Snake animation" />
+<svg width="200" height="50" style="background-color: black;">
 
-###
+  <path id="snake" d="M10,25 C 40,5 65,45 95,25 125,5 150,45 180,25" stroke="green" stroke-width="5" fill="none"/>
 
-<img src="https://raw.githubusercontent.com/MacDonald91/MacDonald91/output/snake.svg" alt="Snake animation" />
+  <animateMotion
+
+    xlink:href="#snake"
+
+    dur="5s"
+
+    repeatCount="indefinite"
+
+    calcMode="linear">
+
+    <mpath xlink:href="#snake"/>
+
+  </animateMotion>
+
+</svg>
+
+
 
 ###
 
