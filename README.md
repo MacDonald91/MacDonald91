@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey  What's up?</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ... the 90's<br>📚 I'm currently learning ... Software Engineering<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ... the 90's<br> I'm currently learning ... Software Engineering<br> Goals: ...<br> Fun fact: ...</p>
 
 ###
 
@@ -33,4 +33,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MacDonald91/count.svg?" />
+</div>
+
+###
+
+###
+
+<svg width="200" height="50" style="background-color: black;">
+  <path id="snake" d="M10,25 C 40,5 65,45 95,25 125,5 150,45 180,25" stroke="lime" stroke-width="5" fill="none"/>
+  <animateMotion
+    xlink:href="#snake"
+    dur="5s"
+    repeatCount="indefinite"
+    calcMode="linear">
