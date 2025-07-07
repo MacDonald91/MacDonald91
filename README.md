@@ -1,8 +1,8 @@
-<h1 align="left">Hey  What's up?</h1>
+<h1 align="centre">Alasdair MacDonald</h1>
 
 ###
 
-<p align="left">Alasdair MacDonald Scotland</p>
+<p align="left">Software Developer</p>
 
 ###
 
