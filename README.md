@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 💻 Passionate about **software engineering** and building scalable web applications  
-📚 Currently focused on mastering **Full-Stack Web Development** (Codecademy track)  
+📚 Currently focused on mastering **Software Development** (Code Your Future)  
 🎯 Goal: Ship useful products, contribute to open source, and grow as a full-stack engineer  
 ☕ Fun fact: My code runs better after coffee (don’t ask for benchmarks 😅)
 
@@ -30,7 +30,8 @@
 
 ## 🎓 Qualifications
 
-- **Software Development** – Code Your Future (Jan 2026 - Present)  
+- **Software Development** – Code Your Future (Jan 2026 - Present)
+- **Full-Stack Engineer Career Path (Diploma)** – Codecademy (2025)    
 - **Software Development (Diploma)** – IT Career Switch (Oct 2024 – Present)  
 - **AWS Re/Start Cloud Practitioner** – Generation IT (Aug – Oct 2024)  
 - **Software Development** – WithYouWithMe (Jan – Feb 2023)  
