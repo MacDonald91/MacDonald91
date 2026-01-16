@@ -30,6 +30,7 @@
 
 ## 🎓 Qualifications
 
+- **Software Development** – Code Your Future (Jan 2026 - Present)  
 - **Software Development (Diploma)** – IT Career Switch (Oct 2024 – Present)  
 - **AWS Re/Start Cloud Practitioner** – Generation IT (Aug – Oct 2024)  
 - **Software Development** – WithYouWithMe (Jan – Feb 2023)  
